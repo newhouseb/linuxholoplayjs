@@ -15,6 +15,7 @@ Navigate to a holoplay.js example and things should work!
 # Notes
 
 - This might work on other OSes (when you compile for them)!
+- I've only tested this on one Looking Glass on one machine. Your mileage may vary.
 - It currently presents the configuration to the holoplay.js SDK. I'm not sure if there are other features hidden in the SDK I don't know about.
 - If you don't want to run it as root I think you can modify your udev rules as mentioned here: https://github.com/lonetech/LookingGlass/blob/master/20-lookingglass.rules
 

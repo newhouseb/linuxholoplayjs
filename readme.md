@@ -1,6 +1,6 @@
 # What is this
 
-This is a server for Linux that allows you to use the web pages that require Holoplay.js to display holograms on a Looking Glass Display. Looking Glass Factory currently only supports Mac and Windows.
+This is a server for Linux that allows you to use the web pages that require Holoplay.js to display holograms on a Looking Glass Display. Looking Glass Factory currently only supports Mac and Windows, so this adds support for Linux.
 
 # Usage
 

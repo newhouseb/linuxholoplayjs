@@ -1,11 +1,16 @@
+# What is this
+
+This is a server for Linux that allows you to use the web pages that require Holoplay.js to display holograms on a Looking Glass Display. Looking Glass Factory currently only supports Mac and Windows.
+
 # Usage
 
 From source
 ```
+go get # Only needed once
 sudo go run main.go
 ```
 
-From a release
+From a release (no dependencies.. I think!)
 ```
 sudo ./linuxholoplayjs
 ```
